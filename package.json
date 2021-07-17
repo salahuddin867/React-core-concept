@@ -1,0 +1,19 @@
+{
+  "name": "core-concept",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salahuddin867/React-core-concept.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salahuddin867/React-core-concept/issues"
+  },
+  "homepage": "https://github.com/salahuddin867/React-core-concept#readme",
+  "description": ""
+}
